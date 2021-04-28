@@ -1,1 +1,5 @@
+Use K-Means and Agglomerative Clustering algorithms to extract the number of clusters in your dataset (attached csv file).
 
+Try a few small values of K and determine the optimal value.
+Visualize your results showing the different clusters and include a dendrogram for the Hierarchical Algorithm.
+Include your python code that reflects all the steps, in your answers.
